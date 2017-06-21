@@ -1,0 +1,20 @@
+{
+  "name": "mongotry",
+  "version": "1.0.0",
+  "description": "A trial for mongo connection",
+  "main": "mctry.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Hello, testing. 1..2..3.\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "keywords": [
+    "none"
+  ],
+  "author": "Arpit",
+  "license": "ISC"
+}
